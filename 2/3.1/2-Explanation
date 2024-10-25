@@ -1,0 +1,15 @@
+1. #include <stdio.h> is a header file library for input/output functions
+2. double variable in order to represent the data of multiple numbers
+   (decimals, negative values, etc. etc.)
+3. printf function to show the user where they will input the numbers and
+   to print out results
+4. scanf function to scan and read data of the given number
+5. %lf refers to the given numbers
+6. %num refers to a specific number
+7. if statement was only added to identify the largest number
+8. the quotations in the if is the deciding factor whether the specific
+   number that was given is the largest or not
+9. %.2f to limit on how many numbers in the decimal can be shown.
+   In this case, it's only 2.
+10. return 0 to end the function
+

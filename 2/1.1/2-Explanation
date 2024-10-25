@@ -1,0 +1,9 @@
+1. #include <stdio.h> is a header file library for input/output functions
+2. int variable because i'm using 2 whole numbers for this code
+3. printf function to show where the user will enter the numbers and to print out the results
+4. scanf function to read the numbers given by the user in order to print out results 
+5. 'sum = num1 + num2' it shows how the 2 integers will be calculated to get the results.
+   In this case, we used addition.
+6. the '%d' inside the scanf function refers to the integers
+   '&num' refers to the specific integer (num1 for example)
+7. return 0 to end the code

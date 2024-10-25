@@ -1,0 +1,8 @@
+1. #include <stdio.h> is a header file library for input/output functions
+2. int variable so the whole number that was given can be identified
+3. printf function to show where the user will enter a number and to show the results
+4. scanf function to read and identify if the number that was given is even or odd
+5. if/else condition was added in case the given number is not even, it will be considered odd
+6. the text inside the if condition (num % 2 == 0) shows what is considered even
+7. %d refers to the integers
+8. return 0 to end the function
